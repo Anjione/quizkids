@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/quizkids/static/css/main.c84ca8a5.chunk.css",
+    "main.js": "/quizkids/static/js/main.e0deb22f.chunk.js",
+    "main.js.map": "/quizkids/static/js/main.e0deb22f.chunk.js.map",
+    "runtime-main.js": "/quizkids/static/js/runtime-main.4a77c468.js",
+    "runtime-main.js.map": "/quizkids/static/js/runtime-main.4a77c468.js.map",
+    "static/js/2.92827171.chunk.js": "/quizkids/static/js/2.92827171.chunk.js",
+    "static/js/2.92827171.chunk.js.map": "/quizkids/static/js/2.92827171.chunk.js.map",
+    "index.html": "/quizkids/index.html",
+    "static/css/main.c84ca8a5.chunk.css.map": "/quizkids/static/css/main.c84ca8a5.chunk.css.map",
+    "static/js/2.92827171.chunk.js.LICENSE.txt": "/quizkids/static/js/2.92827171.chunk.js.LICENSE.txt",
+    "static/media/answerCheck.97903ba2.svg": "/quizkids/static/media/answerCheck.97903ba2.svg",
+    "static/media/answerOptions.f4869f24.svg": "/quizkids/static/media/answerOptions.f4869f24.svg",
+    "static/media/circle.8ca5f818.svg": "/quizkids/static/media/circle.8ca5f818.svg",
+    "static/media/defaultQuestionImage.4e4a3336.svg": "/quizkids/static/media/defaultQuestionImage.4e4a3336.svg",
+    "static/media/diamond.83da87f3.svg": "/quizkids/static/media/diamond.83da87f3.svg",
+    "static/media/explore-study.beb05836.jpg": "/quizkids/static/media/explore-study.beb05836.jpg",
+    "static/media/gamePoints.acac7e25.svg": "/quizkids/static/media/gamePoints.acac7e25.svg",
+    "static/media/globe.30aecd04.svg": "/quizkids/static/media/globe.30aecd04.svg",
+    "static/media/img3.3014aea5.svg": "/quizkids/static/media/img3.3014aea5.svg",
+    "static/media/img4.059360b7.svg": "/quizkids/static/media/img4.059360b7.svg",
+    "static/media/img5.52c49ae2.svg": "/quizkids/static/media/img5.52c49ae2.svg",
+    "static/media/questionType.b9e1f04c.svg": "/quizkids/static/media/questionType.b9e1f04c.svg",
+    "static/media/square.29632198.svg": "/quizkids/static/media/square.29632198.svg",
+    "static/media/study-fun.a8a37bcc.jpg": "/quizkids/static/media/study-fun.a8a37bcc.jpg",
+    "static/media/timer.d4c06740.svg": "/quizkids/static/media/timer.d4c06740.svg",
+    "static/media/triangle.c2309039.svg": "/quizkids/static/media/triangle.c2309039.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a77c468.js",
+    "static/js/2.92827171.chunk.js",
+    "static/css/main.c84ca8a5.chunk.css",
+    "static/js/main.e0deb22f.chunk.js"
+  ]
+}
